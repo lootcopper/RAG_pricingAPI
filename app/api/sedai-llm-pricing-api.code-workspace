@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "sedai-llm-pricing-api-2",
+			"path": "../../../sedai-llm-pricing-api-2"
+		}
+	],
+	"settings": {}
+}
