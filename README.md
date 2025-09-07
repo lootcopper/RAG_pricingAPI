@@ -1,5 +1,8 @@
 RAG service
 
+A service that scrapes pricing info for major LLMS(openai, anthropic, gemini, ex). Runs on a scheduler every 24 hours to account for pricing changes. 
+
+
 ## Project Structure
 
 The project is organized as follows:
