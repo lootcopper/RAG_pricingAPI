@@ -1,4 +1,4 @@
-# sedai-llm-pricing-api
+RAG service
 
 ## Project Structure
 
